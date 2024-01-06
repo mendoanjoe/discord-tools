@@ -1,0 +1,17 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "Tools for tutflix.org",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "mafizholk",
+  "license": "MIT",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
