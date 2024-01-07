@@ -42,7 +42,8 @@ module.exports = {
 		File Name: ${downloadInfo.name}
 		File Size: ${formatBytes(downloadInfo.size)}
 		
-		Direct Download: ${proxy_site}/${downloadInfo.downloadUrl}
+		Direct Download:
+        ${proxy_site}/${downloadInfo.downloadUrl}
 		Create a Mirror: Use \/mirror [put-direct-download-link]`
                 await interaction.reply(message);
 
