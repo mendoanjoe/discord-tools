@@ -12,6 +12,8 @@
   "author": "mafizholk",
   "license": "MIT",
   "dependencies": {
-    "cors-anywhere": "^0.4.4"
+    "cors-anywhere": "^0.4.4",
+    "discord.js": "^14.14.1",
+    "request-promise": "^4.2.6"
   }
 }
